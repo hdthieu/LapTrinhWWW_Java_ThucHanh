@@ -1,0 +1,5 @@
+INDEX VERSION 1.4+D:\LapTrinhWWW_Java\ThucHanh\LTWWW_JAVA_21097511_TUAN01_HoDucTriHieu\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2018903641.index
+3269283686.index
+1894169716.index
+1215513846.index

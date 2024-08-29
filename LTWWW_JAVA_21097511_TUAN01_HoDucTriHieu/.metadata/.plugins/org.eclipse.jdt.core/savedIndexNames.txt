@@ -1,0 +1,2 @@
+INDEX VERSION 1.134+D:\LapTrinhWWW_Java\ThucHanh\LTWWW_JAVA_21097511_TUAN01_HoDucTriHieu\.metadata\.plugins\org.eclipse.jdt.core
+1126961033.index
